@@ -1,0 +1,46 @@
+body{
+    background-color: darkgray;
+}
+
+.nome{
+    text-align: center;
+    background-color: white;
+}
+
+.primeiros {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.ultimos{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 150px;
+
+}
+
+
+.comentarios{
+    text-align: center;
+}
+
+.post3,
+.sobremim{
+    width: 50%;
+}
+
+.redape{
+    color: #E1E5F7;
+    background-color:dimgrey;
+    width: 100%;
+    height:90px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-direction: column;
+}
